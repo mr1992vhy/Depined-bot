@@ -25,7 +25,7 @@ Depined Auto Bot
 4. **Download the Extension**: Install the Depined extension from the Chrome Web Store:  
    [Depined Extension on Chrome Web Store](https://chromewebstore.google.com/detail/depined/pjlappmodaidbdjhmhifbnnmmkkicjoc)
 
-5. **Run for 25 Hours**: To activate your referral code, you need to run the extension for 10 hours.
+5. **Run for 25 Hours**: To activate your referral code, you need to run the extension for 25 hours.
 
 6. **Start Earning**: Once the referral code is activated, you can start earning!
 
