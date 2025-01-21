@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/772c8ca5-60cc-49de-b666-b570a576d026)
+
 # Depined-Auto-Bot
 
 Depined Auto Bot
