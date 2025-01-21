@@ -42,8 +42,8 @@ Ensure you have the following installed:
 1. Clone this repository
 
 ```bash
-git clone https://github.com/airdropinsiders/Depined-Auto-Bot.git
-cd Depined-Auto-Bot
+git clone https://github.com/mr1992vhy/Depined-bot.git
+cd Depined-bot
 ```
 2. Install dependencies
 
