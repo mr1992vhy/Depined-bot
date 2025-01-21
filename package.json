@@ -1,7 +1,7 @@
 {
-  "name": "airdrop-insiders",
+  "name": "Mr1992vhy",
   "version": "1.0.0",
-  "description": "A multi-account manager for AirdropInsiders.",
+  "description": "A multi-account manager for Airdrophunters.",
   "type": "module",
   "main": "index.js",
   "scripts": {
@@ -18,6 +18,6 @@
     "socks-proxy-agent": "^7.0.0"
   },
   "keywords": ["airdrop", "multi-account", "manager", "cli"],
-  "author": "airdropinsiders",
+  "author": "mr1992vhy",
   "license": "MIT"
 }
