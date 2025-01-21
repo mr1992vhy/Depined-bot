@@ -96,6 +96,9 @@ npm install
 ```bash
 nano data.txt
 ```
+![image](https://github.com/user-attachments/assets/7887cad8-fb84-4258-bbcd-a14e819e76a8)
+
+* each account must be in ONE line like this picture ( example : I have 3 accounts here )
 
 you can use proxy ( optional)
 ```
@@ -110,15 +113,14 @@ screen -S depined
 ```bash
 npm run start
 ```
+![image](https://github.com/user-attachments/assets/58808000-e22c-4d3e-a5c1-d14d6042b52c)
+
 if anything is right you can close the screen by : Ctrl + A +D
 - any time you want check the status run this command :
 ```
 screen -r depined
 ```
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Disclaimer
 
