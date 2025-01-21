@@ -245,8 +245,7 @@ const main = async () => {
   while (true) {
     console.clear();
     displayBanner(); // Tampilkan banner sebelum setiap refresh tabel
-    console.log(chalk.yellow('Join Us : https://t.me/AirdropInsiderID\n'));
-    console.log(chalk.cyan('=== Depined Multi-Account Manager ===\n'));
+     console.log(chalk.cyan('=== Depined Multi-Account Manager ===\n'));
     console.log(createStatsTable(accounts).toString());
     console.log(chalk.cyan('\n=== Activity Log ==='));
 
